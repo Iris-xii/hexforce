@@ -26,7 +26,6 @@ function run(s)
 end
 
 local spells = {
-    --"Dispel_Rain",
     "Accelerate",
     "Consume_Wisp",
     "Craft_Phial",
@@ -48,6 +47,7 @@ local spells = {
     --"Suspicious_Glyph", better not to
     "Twokais_Ideal_Condition",
     "White_Suns_Zenith",
+    "Dispel_Rain",
 }
 for k,v in pairs(spells) do
     run(v)

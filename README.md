@@ -7,7 +7,7 @@ Hexcasting Greater Spells Bruteforcing
 If you have to, slap down a CC computer, upload hexforce.lua and autohexforce.lua into it. 
 Put a focal port adjacent to the computer (outputs the patterns found). 
 Use a wired modem to connect as many focal links as you please, one per wisp you plan to use.
-Then run `autohexforce`
+Then run *autohexforce*
 
 *A little warning: Some of the lists of possible patterns are incomplete for some reason. If the accursed mechanism gets stuck into a neverending loop and doesn't get itself out in 5 seconds or so, press the terminate button to move onto the next pattern.*
 
